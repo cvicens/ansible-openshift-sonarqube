@@ -1,10 +1,10 @@
-Ansible Role: Sonatype Sonarqube on OpenShift
+Ansible Role: Sonarqube on OpenShift
 [![Build Status](https://travis-ci.org/cvicens/ansible-openshift-sonarqube.svg?branch=master)](https://travis-ci.org/cvicens/ansible-openshift-sonarqube)
 =========
 
-Ansible Role for deploying Sonatype Sonarqube 7 on OpenShift with Red Hat enterprise maven repositories preconfigured on Sonarqube
+Ansible Role for deploying Sonarqube 7 on OpenShift with Red Hat enterprise maven repositories preconfigured on Sonarqube
 
-NOTE: This role has been updated to only support Sonatype Sonarqube 7
+NOTE: This role has been updated to only support Sonarqube 7
 
 
 Role Variables

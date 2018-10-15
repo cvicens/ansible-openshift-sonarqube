@@ -4,7 +4,7 @@ allow_duplicates: true
 
 galaxy_info:
   author: Carlos Vicens
-  description: Sonatype Sonarqube for OpenShift
+  description: Sonarqube for OpenShift
   company: "Red Hat"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.3
